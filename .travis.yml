@@ -2,8 +2,6 @@
 # Travis Setup
 #
 
-# use ubuntu trusty for newer version of nodejs, used for JS testing
-dist: trusty
 
 # faster builds on new travis setup not using sudo
 # temporary disable, see https://github.com/travis-ci/travis-ci/issues/6842
